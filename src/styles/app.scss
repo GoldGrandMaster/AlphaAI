@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "inherit", sans-serif;
+  text-decoration: none;
+  align-items: center;
+  color: #0E141E;
+}
+
+a.signup {
+  background-color: #068932;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 14px;
+  position: relative;
+  // line-height: 40px;
+  color: #FFFFFF !important;
+  padding: 10px !important;
+}
+
+a.requestdemo {
+  background-color: #F7F7F7;
+  border-radius: 4px;
+  text-align: center;
+  padding: 10px !important;
+}
