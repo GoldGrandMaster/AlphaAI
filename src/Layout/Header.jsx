@@ -8,7 +8,7 @@ const header = () => {
   return (
     <nav>
       <main>
-        <img width = "200" src = {hackrank} alt = 'Graphics'/>
+        <img width = "170" src = {hackrank} alt = 'Graphics' />
         <div>
           <Link to = {"/"}>Products</Link>
           <Link to = {"/"}>Solutions</Link>
