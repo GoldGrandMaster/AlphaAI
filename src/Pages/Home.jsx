@@ -13,7 +13,7 @@ import linkedin from "../assets/linkedin_black.png";
 const home = () => {
   return (
     <main>
-      <div className='home22-intro'>
+      {/* <div className='home22-intro'>
         <div className='home22-intro-content'>
           <h1 className='home22-intro-title'>Skills speak louder than words</h1>
           <div className='home22-intro-text'>
@@ -35,7 +35,7 @@ const home = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       <div className='home22-hiring'>
         <h2 className='home22-hiring-title'>
           It's not a pipeline problem.
