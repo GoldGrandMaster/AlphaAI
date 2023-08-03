@@ -1,49 +1,49 @@
 
-nav {
-  width: 100%;
-  padding: 1rem;
-  margin: auto;
-  display: block;
-  align-content: center;
-  position: sticky;
-  justify-content: space-between;
-  background-color: white;
-  top: 0%;
-  box-shadow: 0px -5px 10px;
+// nav {
+//   width: 100%;
+//   padding: 1rem;
+//   margin: auto;
+//   display: block;
+//   align-content: center;
+//   position: sticky;
+//   justify-content: space-between;
+//   background-color: white;
+//   top: 0%;
+//   box-shadow: 0px -5px 10px;
 
 
-  > main {
-    display: flex;
-    justify-content: center;
+//   > main {
+//     display: flex;
+//     justify-content: center;
     
-    > div {
-      margin: 0 50px;
-      > a {
-        margin: 20px;
+//     > div {
+//       margin: 0 50px;
+//       > a {
+//         margin: 20px;
   
-        &:hover {
-          color: #068932;
-        }
-      }
+//         &:hover {
+//           color: #068932;
+//         }
+//       }
 
-      a.signup {
-        background-color: #068932;
-        border-radius: 4px;
-        text-align: center;
-        font-weight: 600;
-        font-size: 14px;
-        position: relative;
-        // line-height: 40px;
-        color: #FFFFFF !important;
-        padding: 10px !important;
-      }
+//       a.signup {
+//         background-color: #068932;
+//         border-radius: 4px;
+//         text-align: center;
+//         font-weight: 600;
+//         font-size: 14px;
+//         position: relative;
+//         // line-height: 40px;
+//         color: #FFFFFF !important;
+//         padding: 10px !important;
+//       }
       
-      a.requestdemo {
-        background-color: #F7F7F7;
-        border-radius: 4px;
-        text-align: center;
-        padding: 10px !important;
-      }
-    }
-  }
-}
+//       a.requestdemo {
+//         background-color: #F7F7F7;
+//         border-radius: 4px;
+//         text-align: center;
+//         padding: 10px !important;
+//       }
+//     }
+//   }
+// }
