@@ -4,6 +4,8 @@ import hackrank from "../assets/hackerrank_logo.png"
 
 import "../styles/header.scss"
 
+// header component
+
 const header = () => {
   return (
     <nav>
